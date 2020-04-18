@@ -1,0 +1,7 @@
+*.c
+*.so
+*.log
+*.o
+.idea/
+.ipynb_checkpoints/
+service_creds.py
